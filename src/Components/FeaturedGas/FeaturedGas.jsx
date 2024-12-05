@@ -1,7 +1,7 @@
 import React from "react";
 import "../FeaturedGas/FeaturedGas.css";
 import { Link } from "react-router-dom";
-import gasData from "../../GasData/GasData.js";
+import gasData from "../../Gasdata/GasData.js";
 
 const FeaturedGas = () => {
   return (
