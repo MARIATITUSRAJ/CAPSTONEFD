@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import gasData from "../GasData/GasData.js";
+import gasData from "../Gasdata/GasData.js";
 
 const GasCards = () => {
   const { id } = useParams();

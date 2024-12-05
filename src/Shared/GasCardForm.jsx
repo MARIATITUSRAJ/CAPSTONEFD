@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import gasData from "../GasData/GasData.js";
+import gasData from "../Gasdata/GasData.js";
 import { useNavigate, useParams } from "react-router-dom";
 import axios from "axios";
 import * as Yup from "yup";
